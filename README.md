@@ -84,6 +84,15 @@ To understand the Titanic dataset using statistical analysis and data visualizat
 - sns.pairplot() for feature relationships
 - sns.countplot() for categorical analysis
 ```
+## SnapShots 
+![image](https://github.com/user-attachments/assets/905b88be-8044-43ba-af57-bd8dbdbcc797)
+![image](https://github.com/user-attachments/assets/96bd965c-8600-4233-9154-b9b58fbc23ff)
+![image](https://github.com/user-attachments/assets/1b1045d7-6f96-4983-8489-cf4910a5aa7c)
+![image](https://github.com/user-attachments/assets/dd201978-0292-413a-8a6a-a1f97b1e9908)
+![image](https://github.com/user-attachments/assets/a125613e-f61c-4ab9-adb5-5f837bc0bfa5)
+![image](https://github.com/user-attachments/assets/d3ee589d-0384-41e3-8a12-6f95152856a6)
+![image](https://github.com/user-attachments/assets/827f3a86-25fb-4ff4-a6c1-462ca60ec6cc)
+
 
 ## 📚 What I Learned
 - **Data Visualization Techniques**: Creating meaningful plots to understand data patterns
